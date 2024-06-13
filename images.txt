@@ -9,7 +9,7 @@ mysql
 redis
 nacos/nacos-server
 tanghc2020/torna
-jenkins/jenkins:lts-jdk17
+jenkins/jenkins
 ollama/ollama
 dyrnq/open-webui
 onething1/wxedge
