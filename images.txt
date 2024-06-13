@@ -4,9 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-mysql:8.0
-mysql:8.0.40
-mysql
+mysql:8.3.0
 redis
 nacos/nacos-server
 tanghc2020/torna
