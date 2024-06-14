@@ -13,3 +13,4 @@ ollama/ollama
 dyrnq/open-webui
 onething1/wxedge
 whyour/qinglong
+nginx
