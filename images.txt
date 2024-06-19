@@ -11,7 +11,9 @@ tanghc2020/torna
 jenkins/jenkins
 ollama/ollama
 dyrnq/open-webui
+dyrnq/open-webui:main-ollama
 onething1/wxedge
 whyour/qinglong
 nginx
 jellyfin/jellyfin
+
