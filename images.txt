@@ -17,3 +17,5 @@ whyour/qinglong
 nginx
 jellyfin/jellyfin
 mintplexlabs/anythingllm
+elasticsearch
+kibana
