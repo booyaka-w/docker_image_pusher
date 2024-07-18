@@ -17,5 +17,5 @@ whyour/qinglong
 nginx
 jellyfin/jellyfin
 mintplexlabs/anythingllm
-#elasticsearch
-kibana
+elasticsearch:8.14.3
+kibana:8.14.3
