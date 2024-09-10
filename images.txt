@@ -7,6 +7,7 @@
 mysql:8.3.0
 redis
 nacos/nacos-server:latest
+nacos/nacos-server:v2.4.1
 tanghc2020/torna
 jenkins/jenkins
 ollama/ollama
